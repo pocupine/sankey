@@ -1,11 +1,11 @@
 category,  first purchase,      second purchase,    customer count
 dog food,  1-small dog food,    2-none,                    654
 dog food,  1-small dog food,    2-tooth brush,              21
-dog food,  1-small dog food,    2-tooth brush,              21
-dog food,  1-small dog food,    2-tooth brush,
-dog food,  1-big dog food,      2-tooth brush,
-dog food,  1-big dog food,      2-tooth brush,
-dog food,  1-big dog food,      2-tooth brush,
-dog food,  1-big dog food,      2-tooth brush,
-dog toy,   1-tooth brush,       2-tooth brush,
-dog toy,   1-tooth brush,       2-tooth brush,
+dog food,  1-small dog food,    2-small dog food,          231
+dog food,  1-small dog food,    2-big dog food,            112
+dog food,  1-big dog food,      2-none,                    375
+dog food,  1-big dog food,      2-tooth brush,              23
+dog food,  1-big dog food,      2-small dog food,           18
+dog food,  1-big dog food,      2-big dog food,            197
+dog toy,   1-tooth brush,       2-none,                    157
+dog toy,   1-tooth brush,       2-tooth brush,               3
